@@ -1,13 +1,3 @@
-/*
-** div.c for div in /home/temeni_n/rendu/piscine_cpp_d02/ex04
-** 
-** Made by Nicolas Temenides
-** Login   <temeni_n@epitech.net>
-** 
-** Started on  Thu Jan  9 12:57:09 2014 Nicolas Temenides
-** Last update Thu Jan  9 15:06:35 2014 Nicolas Temenides
-*/
-
 #include	"castmania.h"
 
 int	integer_div(int a, int b)
