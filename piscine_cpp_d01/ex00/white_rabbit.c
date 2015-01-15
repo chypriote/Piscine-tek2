@@ -1,13 +1,3 @@
-/*
-** main.c for lapin in /home/temeni_n/rendu/piscine_cpp_d01/ex00
-** 
-** Made by Nicolas Temenides
-** Login   <temeni_n@epitech.net>
-** 
-** Started on  Wed Jan  8 13:51:20 2014 Nicolas Temenides
-** Last update Thu Jan  9 10:29:22 2014 Nicolas Temenides
-*/
-
 #include	<stdio.h>
 #include	<stdlib.h>
 
