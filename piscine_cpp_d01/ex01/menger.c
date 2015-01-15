@@ -1,13 +1,3 @@
-/*
-** menger.c for menger in /home/temeni_n/rendu/piscine_cpp_d01/ex01
-** 
-** Made by Nicolas Temenides
-** Login   <temeni_n@epitech.net>
-** 
-** Started on  Wed Jan  8 15:16:09 2014 Nicolas Temenides
-** Last update Wed Jan  8 21:15:15 2014 Nicolas Temenides
-*/
-
 #include	<stdio.h>
 
 void		print_square(int size, int x, int y)
