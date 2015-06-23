@@ -1,13 +1,3 @@
-//
-// Wrap.hh for ch3 in /home/enjalb_p/project/rush/rush2
-// 
-// Made by Pierre Enjalbert
-// Login   <enjalb_p@epitech.net>
-// 
-// Started on  Sat Jan 18 10:11:33 2014 Pierre Enjalbert
-// Last update Sun Jan 19 01:25:39 2014 Nicolas Temenides
-//
-
 #ifndef		WRAP_HH_
 #define		WRAP_HH_
 

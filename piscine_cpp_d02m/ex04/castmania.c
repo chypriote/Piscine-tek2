@@ -1,13 +1,3 @@
-/*
-** castmania.c for castmania in /home/temeni_n/rendu/piscine_cpp_d02/ex04
-** 
-** Made by Nicolas Temenides
-** Login   <temeni_n@epitech.net>
-** 
-** Started on  Thu Jan  9 13:12:14 2014 Nicolas Temenides
-** Last update Thu Jan  9 15:20:03 2014 Nicolas Temenides
-*/
-
 #include	<stdio.h>
 #include	"castmania.h"
 

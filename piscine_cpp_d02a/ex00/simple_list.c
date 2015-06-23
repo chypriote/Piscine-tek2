@@ -1,13 +1,3 @@
-/*
-** simple_list.c for simple list in /home/temeni_n/rendu/piscine_cpp_d02a/ex00
-** 
-** Made by Nicolas Temenides
-** Login   <temeni_n@epitech.net>
-** 
-** Started on  Thu Jan  9 17:01:38 2014 Nicolas Temenides
-** Last update Fri Jan 10 07:58:55 2014 Nicolas Temenides
-*/
-
 #include	<stdlib.h>
 #include	<stdio.h>
 #include	"simple_list.h"

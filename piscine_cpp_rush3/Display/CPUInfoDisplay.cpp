@@ -1,13 +1,3 @@
-//
-// CPUInfoDisplay.cpp for CPU_indoDisplay in /home/mestro_g/arush3/rush3/Display
-// 
-// Made by mestrot garpard
-// Login   <mestro_g@epitech.net>
-// 
-// Started on  Sun Jan 26 02:36:57 2014 mestrot garpard
-// Last update Sun Jan 26 08:46:18 2014 Nicolas Temenides
-//
-
 #include "CPUInfoDisplay.hpp"
 
 static void             _display_diagram(std::map<std::string, std::string>::iterator it, int line)

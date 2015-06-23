@@ -1,13 +1,3 @@
-/*
-** main.c for the menger sponge in /home/temeni_n/rendu/piscine_cpp_d01/ex01
-** 
-** Made by Nicolas Temenides
-** Login   <temeni_n@epitech.net>
-** 
-** Started on  Wed Jan  8 14:23:41 2014 Nicolas Temenides
-** Last update Wed Jan  8 23:11:21 2014 Nicolas Temenides
-*/
-
 #include	<stdio.h>
 #include	<stdlib.h>
 

@@ -1,13 +1,3 @@
-/*
-** float.c for  in /home/gros_j/semestre3/piscine/rush1/ex_04
-** 
-** Made by jeremy gros
-** Login   <gros_j@epitech.net>
-** 
-** Started on  Sat Jan 11 17:50:14 2014 jeremy gros
-** Last update Sun Jan 12 01:03:29 2014 Nicolas Temenides
-*/
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>

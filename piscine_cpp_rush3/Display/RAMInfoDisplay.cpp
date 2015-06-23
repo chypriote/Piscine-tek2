@@ -1,13 +1,3 @@
-//
-// RAMInfoDisplay.cpp for Raminfodisplay in /home/mestro_g/arush3/rush3/Display
-// 
-// Made by mestrot garpard
-// Login   <mestro_g@epitech.net>
-// 
-// Started on  Sun Jan 26 02:08:23 2014 mestrot garpard
-// Last update Sun Jan 26 03:20:17 2014 Nicolas Temenides
-//
-
 #include "RAMInfoDisplay.hpp"
 
 void            RAMInfoDisplay::showCurses()

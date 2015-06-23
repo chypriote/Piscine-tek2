@@ -1,13 +1,3 @@
-//
-// UserInfoDisplay.cpp for UserInfo.cpp in /home/mestro_g/arush3/rush3/Display
-// 
-// Made by mestrot garpard
-// Login   <mestro_g@epitech.net>
-// 
-// Started on  Sun Jan 26 02:01:42 2014 mestrot garpard
-// Last update Sun Jan 26 03:19:17 2014 Nicolas Temenides
-//
-
 #include "UserInfoDisplay.hpp"
 
 void            UserInfoDisplay::showCurses()

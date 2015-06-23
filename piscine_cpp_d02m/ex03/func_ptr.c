@@ -1,13 +1,3 @@
-/*
-** func_ptr.c for do_action in /home/temeni_n/rendu/piscine_cpp_d02/ex03
-** 
-** Made by Nicolas Temenides
-** Login   <temeni_n@epitech.net>
-** 
-** Started on  Thu Jan  9 12:13:24 2014 Nicolas Temenides
-** Last update Fri Jan 10 08:08:38 2014 Nicolas Temenides
-*/
-
 #include	<stdio.h>
 #include	<string.h>
 #include	<stdlib.h>
